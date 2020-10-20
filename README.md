@@ -7,7 +7,7 @@
 - Correlation Table
 - Beta 
 
-"My Portfolio" is comprised of five stocks: Amazon (AMZN), Boeing (BA), Crispr (CRSP), Microsoft (MSFT), and Paypal (PYPL)
+"My Portfolio" is comprised of five stocks: Amazon (AMZN), Boeing (BA), Crispr (CRSP), Microsoft (MSFT), and Paypal (PYPL).
 
 #Conclusion
 Our findings demonstrate the portfolios with the highest annualized standard deviation (252 trading days) were My Portfolio **(0.015929)** followed by Berkshire Hathaway Inc **(0.012320)** and Tiger Global Management LLC **(0.011744).** The annualized sharpe ratios are as follows ordered from highest to lowest:
