@@ -1,6 +1,6 @@
 # Summary of Portfolio Analysis
 
-*In the present analysis, we look at eight different portfolios and compare the return on each portfolio in order to make a recommendation for investment. The portfolios evaluated in this analysis include **Soros Fund Management LLC, Paulson & Co. Inc., Tiger Global Management LLC, Berkshire Hathaway Inc, Algo 1, Algo 2, S&P 500, and My Portfolio.** The return of each company was calculated using the daily returns from the past five years. Other calculations performed in this analysis includes:*
+*In the present analysis, we look at eight different portfolios and compare the return on each portfolio in order to make a recommendation for investment. The portfolios evaluated in this analysis include **Soros Fund Management LLC, Paulson & Co. Inc., Tiger Global Management LLC, Berkshire Hathaway Inc, Algo 1, Algo 2, S&P 500, and My Portfolio.** The daily returns for each portfolio from the past five years were examined. Other calculations performed in this analysis includes:*
 - Annualized Standard Deviation 
 - Rolling Standard Deviation
 - Sharpe Ratios
